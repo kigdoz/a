@@ -208,7 +208,7 @@ const raw_proxy_sites = [
 'https://api.openproxylist.xyz/http.txt',
 'https://raw.githubusercontent.com/hendrikbgr/Free-Proxy-Repo/master/proxy_list.txt',
 'https://raw.githubusercontent.com/HyperBeats/proxy-list/main/http.txt',
-'https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt
+'https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt',
 'https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt',
 'https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt',
 'https://raw.githubusercontent.com/RX4096/proxy-list/main/online/http.txt',
