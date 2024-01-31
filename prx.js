@@ -215,7 +215,7 @@ const raw_proxy_sites = [
 'https://raw.githubusercontent.com/RX4096/proxy-list/main/online/https.txt',
 'https://raw.githubusercontent.com/saisuiu/uiu/main/free.txt',
 'https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt',
-'https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt',/http.txt'
+'https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt',
   // ... tambahkan URL lainnya sesuai kebutuhan Anda
 ];
 
